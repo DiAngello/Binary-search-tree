@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiAngello/Binary-search-tree">
-    <img src="" alt="Logo" >
+    <img src="https://github.com/DiAngello/Binary-search-tree/blob/main/tree_logo.png" width="120" alt="Logo" >
   </a>
 
   <h3 align="center">Árvore Binária de Busca em C</h3>
