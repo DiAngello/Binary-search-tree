@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DiAngello/">
+  <a href="https://github.com/DiAngello/Binary-search-tree">
     <img src="" alt="Logo" >
   </a>
 
@@ -67,7 +67,7 @@ O código oferece um menu interativo para demonstrar as operações da árvore.
 
 1.  Clone o repositório:
     ```sh
-    git clone https://github.com/DiAngello//Projeto_Final-Estrutura_de_dados.git
+    git clone https://github.com/DiAngello/Binary-search-tree.git
     ```
 2.  Compile os arquivos:
     ```sh
@@ -102,6 +102,6 @@ Basta digitar o número da opção desejada e seguir as instruções.
 
 Andressa Gabrielly A. de Souza - aka DiAngello - andressa.gabrielly.ofc@gmail.com
 
-Link do projeto: [https://github.com/DiAngello//Projeto_Final-Estrutura_de_dados](https://github.com/DiAngello//Projeto_Final-Estrutura_de_dados) 
+Link do projeto: [https://github.com/DiAngello/Binary-search-tree](https://github.com/DiAngello/Binary-search-tree) 
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
