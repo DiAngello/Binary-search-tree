@@ -9,7 +9,7 @@
   <h3 align="center">Árvore Binária de Busca em C</h3>
 
   <p align="center">
-    Implementação de uma Árvore Binária de Busca (BST) em C, com funcionalidades de inserção, remoção, busca, impressão em ordem, pré-ordem e pós-ordem, além de encontrar os valores mínimo e máximo.
+    Implementação de uma Árvore Binária de Busca (BST) em C.
     <br />
   </p>
 </div>
