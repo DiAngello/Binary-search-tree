@@ -47,7 +47,7 @@ O código oferece um menu interativo para demonstrar as operações da árvore.
 
 🚨 Código criado para finalização da nota da disciplina de Estrutura de dados 2023/2.
 
-![Demo]() 
+![Binary Tree Demo](https://github.com/DiAngello/Binary-search-tree/blob/main/tree_gif.gif) 
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
